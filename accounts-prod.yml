@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Eazy bank accouts related prod apis"
   contactDetails:
     name : "Reine Deo - Product Owner"
-    email : "reine@eazybank.com"
+    email : "{cipher}8a0b800e8a6e3f3c0688e4777f3c96215848b2c252a6664ad6aff889af3ed48af867c6b1d71a0e4558a7c61c40e178d3"
   onCallSupport:
     -(555) 555-1234
     -(555) 555-3412

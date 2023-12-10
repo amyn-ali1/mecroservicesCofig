@@ -1,0 +1,11 @@
+build:
+  version: "2.0.0"
+
+loans:
+  message: "Welcome to Eazy bank loans related QA apis"
+  contactDetails:
+    name : "Smith Deo - QA Lead"
+    email : "smith@eazybank.com"
+  onCallSupport:
+    -(555) 555-1234
+    -(555) 555-3412

@@ -1,0 +1,11 @@
+build:
+  version: "1.0.0"
+
+cards:
+  message: "Welcome to Eazy bank cards related prod apis"
+  contactDetails:
+    name : "Reine Deo - Product Owner"
+    email : "reine@eazybank.com"
+  onCallSupport:
+    -(555) 555-1234
+    -(555) 555-3412

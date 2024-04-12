@@ -2,7 +2,7 @@ build:
   version: "1.0.0"
 
 loans:
-  message: "Welcome to Eazy bank loans related prod apis"
+  message: "Welcome to Eazy bank loans related production apis"
   contactDetails:
     name : "Reine Deo - Product Owner"
     email : "reine@eazybank.com"

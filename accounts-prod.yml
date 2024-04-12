@@ -2,7 +2,7 @@ build:
   version: "1.0.0"
 
 accounts:
-  message: "Welcome to Eazy bank accouts related prodoction apis"
+  message: "Welcome to Eazy bank accouts related prod apis"
   contactDetails:
     name : "Reine Deo - Product Owner"
     email : "{cipher}a37c303e594f42fd09f0bbe4aeb1d46491678f4604780024ce6b7d4d2080c63212e1718e2412686308b5e1493420e5e8"

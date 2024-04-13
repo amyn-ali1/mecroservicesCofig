@@ -2,7 +2,7 @@ build:
   version: "1.0.0"
 
 cards:
-  message: "Welcome to Eazy bank cards related production apis"
+  message: "Welcome to Eazy bank cards related prod apis"
   contactDetails:
     name : "Reine Deo - Product Owner"
     email : "reine@eazybank.com"
